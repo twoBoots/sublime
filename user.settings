@@ -1,0 +1,21 @@
+{
+  "font_size": 8,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "theme": "Seti_orig.sublime-theme",
+  "color_scheme": "Packages/Theme - Seti Monokai/scheme/Seti Monokai.tmTheme",
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "bold_folder_labels": true,
+  "index_files": false,
+  "overlay_scroll_bars": "enabled",
+  "indent_to_bracket": true,
+  "trim_automatic_white_space": false,
+  "trim_trailing_white_space_on_save": true,
+  "highlight_modified_tabs": false,
+  "highlight_line": false,
+  "draw_white_space": "all",
+  "caret_style": "phase"
+}
