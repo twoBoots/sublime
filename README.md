@@ -8,3 +8,6 @@
 - Seti_UX
 - Theme - Seti Monokai
 - Vue Syntax Highlight
+- SublimeGit
+- LESS
+- Pretty JSON
