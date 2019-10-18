@@ -11,3 +11,4 @@
 - SublimeGit
 - LESS
 - Pretty JSON
+- EditorConfig
